@@ -1,7 +1,8 @@
-catcomplicator
-==============
+# CatComplicator
 
-# About
-## How to install
+Mind blowing calculator, I tell ya.
 
-Catcomplicater will calculate the complexity of your life style.
+## About
+
+Catcomplicater will calculate the complexity of your life (style).
+Use at your own risk.
